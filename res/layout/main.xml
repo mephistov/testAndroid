@@ -7,7 +7,7 @@
     <Button android:text="Button" android:id="@+id/button1" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
     <Button android:text="Button" android:id="@+id/button2" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
     <FrameLayout android:id="@+id/frameLayout1" android:layout_height="wrap_content" android:layout_width="500px">
-        <Button android:text="Button" android:id="@+id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+        <Button android:id="@+id/button3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Casa"></Button>
         <Button android:layout_width="wrap_content" android:text="Button" android:layout_height="wrap_content" android:id="@+id/button4" android:layout_gravity="right"></Button>
         <Button android:text="Button" android:id="@+id/button5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="center"></Button>
     </FrameLayout>
